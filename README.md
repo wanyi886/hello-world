@@ -1,2 +1,2 @@
 # hello-world
-Hey!
+Hey! I am new to programming, nice to meet you!
